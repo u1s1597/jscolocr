@@ -1,2 +1,1 @@
-# jscolocr
-JavaScript调色器
+## 基于JavaScript编写的前端调色器
